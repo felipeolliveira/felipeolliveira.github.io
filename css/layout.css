@@ -637,7 +637,7 @@ ul#nav li.current a {
 }
 
 .ruby {
-  width: 35%;
+  width: 15%;
   -moz-animation: ruby 2s ease;
   -webkit-animation: ruby 2s ease;
   animation: ruby 2s ease;
@@ -648,7 +648,7 @@ ul#nav li.current a {
   }
 
   100% {
-    width: 35%;
+    width: 15%;
   }
 }
 
@@ -658,7 +658,7 @@ ul#nav li.current a {
   }
 
   100% {
-    width: 35%;
+    width: 15%;
   }
 }
 
