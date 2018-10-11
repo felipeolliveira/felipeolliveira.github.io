@@ -491,7 +491,7 @@ ul#nav li.current a {
 }
 
 .wordpress {
-  width: 40%;
+  width: 30%;
   -moz-animation: wordpress 2s ease;
   -webkit-animation: wordpress 2s ease;
   animation: wordpress 2s ease;
@@ -503,7 +503,7 @@ ul#nav li.current a {
   }
 
   100% {
-    width: 40%;
+    width: 30%;
   }
 }
 
@@ -513,7 +513,7 @@ ul#nav li.current a {
   }
 
   100% {
-    width: 40%;
+    width: 30%;
   }
 }
 
@@ -523,7 +523,7 @@ ul#nav li.current a {
   }
 
   100% {
-    width: 40%;
+    width: 30%;
   }
 }
 
