@@ -32,12 +32,13 @@
   }
 
   header .banner-text h1 {
-    font: 78px/1.1em 'opensans-bold', sans-serif;
+    font: 78px/1.1em 'opensans-light', sans-serif !important;
     letter-spacing: -1px;
   }
 
   header .banner-text h3 {
-    font: 17px/1.9em 'librebaskerville-regular', serif;
+    font: 17px/1.9em 'opensans-light', sans-serif;
+    sans-serif;
     width: 80%;
   }
 
@@ -225,11 +226,11 @@
   }
 
   header .banner-text h1 {
-    font: 68px/1.1em 'opensans-bold', sans-serif;
+    font: 68px/1.1em 'opensans-light', sans-serif !important;
   }
 
   header .banner-text h3 {
-    font: 16px/1.9em 'librebaskerville-regular', serif;
+    font: 16px/1.9em 'opensans-light', sans-serif;
     width: 85%;
   }
 
@@ -486,12 +487,12 @@
   }
 
   header .banner-text h1 {
-    font: 40px/1.1em 'opensans-bold', sans-serif;
+    font: 40px/1.1em 'opensans-light', sans-serif !important;
     margin: 0 auto 24px auto;
   }
 
   header .banner-text h3 {
-    font: 14px/1.9em 'librebaskerville-regular', sans-serif;
+    font: 14px/1.9em 'opensans-light', sans-serif;
     width: 90%;
   }
 
