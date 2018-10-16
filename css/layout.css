@@ -704,6 +704,7 @@ ul#nav li.current a {
   background: #f2f2f2;
   overflow: hidden;
   position: relative;
+  border-radius: 5px;
 
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;

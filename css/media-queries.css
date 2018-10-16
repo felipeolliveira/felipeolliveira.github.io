@@ -142,7 +142,7 @@
     background: linear-gradient(#0078FF, #000AFF);
     position: relative;
     border: none;
-    border-radius: 10px;
+    border-radius: 5px;
     float: right;
 
     font: 0/0 a;
@@ -151,7 +151,7 @@
 
     position: relative;
     top: 0px;
-    right: 30px;
+    right: 0px;
   }
 
   #nav-wrap>a:before,
