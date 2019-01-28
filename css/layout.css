@@ -533,6 +533,80 @@ ul#nav li.current a {
   }
 }
 
+.figma {
+  width: 80%;
+  -moz-animation: figma 2s ease;
+  -webkit-animation: figma 2s ease;
+  animation: figma 2s ease;
+}
+
+@-webkit-keyframes figma {
+  0% {
+    width: 0px;
+  }
+
+  100% {
+    width: 30%;
+  }
+}
+
+@-moz-keyframes figma {
+  0% {
+    width: 0px;
+  }
+
+  100% {
+    width: 30%;
+  }
+}
+
+@keyframes figma {
+  0% {
+    width: 0px;
+  }
+
+  100% {
+    width: 30%;
+  }
+}
+
+.adobe-xd {
+  width: 60%;
+  -moz-animation: adobe-xd 2s ease;
+  -webkit-animation: adobe-xd 2s ease;
+  animation: adobe-xd 2s ease;
+}
+
+@-webkit-keyframes adobe-xd {
+  0% {
+    width: 0px;
+  }
+
+  100% {
+    width: 30%;
+  }
+}
+
+@-moz-keyframes adobe-xd {
+  0% {
+    width: 0px;
+  }
+
+  100% {
+    width: 30%;
+  }
+}
+
+@keyframes adobe-xd {
+  0% {
+    width: 0px;
+  }
+
+  100% {
+    width: 30%;
+  }
+}
+
 .css {
   width: 70%;
   -moz-animation: css 2s ease;
