@@ -608,7 +608,7 @@ ul#nav li.current a {
 }
 
 .css {
-  width: 70%;
+  width: 50%;
   -moz-animation: css 2s ease;
   -webkit-animation: css 2s ease;
   animation: css 2s ease;
@@ -620,7 +620,7 @@ ul#nav li.current a {
   }
 
   100% {
-    width: 70%;
+    width: 50%;
   }
 }
 
@@ -630,7 +630,7 @@ ul#nav li.current a {
   }
 
   100% {
-    width: 70%;
+    width: 50%;
   }
 }
 
@@ -640,12 +640,12 @@ ul#nav li.current a {
   }
 
   100% {
-    width: 70%;
+    width: 50%;
   }
 }
 
 .html5 {
-  width: 75%;
+  width: 45%;
   -moz-animation: html5 2s ease;
   -webkit-animation: html5 2s ease;
   animation: html5 2s ease;
@@ -657,7 +657,7 @@ ul#nav li.current a {
   }
 
   100% {
-    width: 75%;
+    width: 45%;
   }
 }
 @-moz-keyframes html5 {
@@ -666,7 +666,7 @@ ul#nav li.current a {
   }
 
   100% {
-    width: 75%;
+    width: 45%;
   }
 }
 @keyframes html5 {
@@ -675,7 +675,7 @@ ul#nav li.current a {
   }
 
   100% {
-    width: 75%;
+    width: 45%;
   }
 }
 
