@@ -712,14 +712,14 @@ ul#nav li.current a {
   }
 }
 
-.vuejs {
+.react {
   width: 20%;
-  -moz-animation: vuejs 2s ease;
-  -webkit-animation: vuejs 2s ease;
-  animation: vuejs 2s ease;
+  -moz-animation: react 2s ease;
+  -webkit-animation: react 2s ease;
+  animation: react 2s ease;
 }
 
-@-moz-keyframes vuejs {
+@-moz-keyframes react {
   0% {
     width: 0px;
   }
@@ -729,7 +729,7 @@ ul#nav li.current a {
   }
 }
 
-@keyframes vuejs {
+@keyframes react {
   0% {
     width: 0px;
   }
@@ -738,7 +738,7 @@ ul#nav li.current a {
     width: 20%;
   }
 }
-@-webkit-keyframes vuejs {
+@-webkit-keyframes react {
   0% {
     width: 0px;
   }
